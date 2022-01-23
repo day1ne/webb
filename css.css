@@ -1,0 +1,55 @@
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 16%;}
+
+.center2 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width:32%;}
+
+h1 {
+	font-family: Perpetua;
+	text-shadow: 2px 2px 8px #E1AAF4;}
+
+body {
+	font-family: Candara;
+	font-size: 18px;}
+
+.nav-item .nav-link:visited
+	{color: purple !important;
+	}
+
+.nav-item .nav-link:hover
+	{color: #A1CEFF !important;
+	}
+
+.navbar-light {
+	background-color: #F3F3FF;
+	}
+
+.img {
+	height: 450px;
+	width: 400px;
+	float: right;
+	margin-top: -200px;
+	}
+
+.p1 {
+	display: inline;
+	margin-left: 30px;
+	font-size: 15px;
+	padding-bottom: 15px;
+	}
+
+.full {
+	border: 1px solid gray;
+	background-image: url('https://1.bp.blogspot.com/-gpPCNM2JjBs/W28oMHeNHqI/AAAAAAAX7u8/LQtL7fq0ZcsDrRicHfQJQMeFpwpLlVFMwCLcBGAs/s1600/AW1528222_00.gif');
+	background-size: 200px;
+	background-position: center;
+	value: cover;
+	}
+
+

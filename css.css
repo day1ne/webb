@@ -10,6 +10,11 @@
 	margin-right: auto;
 	width:32%;}
 
+.rowc {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;}
+
 h1 {
 	font-family: Perpetua;
 	text-shadow: 2px 2px 8px #E1AAF4;
@@ -20,6 +25,12 @@ h2 {
 	font-family: Perpetua;
 	padding-bottom: 20px;
 	font-size: 35px;}
+
+h3 {
+	font-family: Perpetua;
+	font-size: 32px;
+	margin-left: 100px;
+	}
 
 body {
 	font-family: Candara;
@@ -53,6 +64,21 @@ body {
 .p2 {
 	margin-left: 1100px;}
 
+.pf1 {
+	font-size: 20px;
+	display: inline;
+	margin-left: 13%;}
+
+.pf2 {
+	font-size: 20px;
+	display: inline;
+	margin-left: 16%;}
+
+.pf3 {
+	font-size: 20px;
+	display: inline;
+	margin-left: 18%;}
+
 .nav-item .nav-link:visited
 	{color: purple !important;
 	}
@@ -67,11 +93,19 @@ body {
 
 .img {
 	height: 480px;
-	width: 430px;
+	width: 450px;
 	float: right;
 	margin-top: 30px;
 	margin-right: 50px;
 	}
+
+.img2 {
+	height: 350px;
+	width: 350px;
+	float: right;
+	margin-top: 30px;
+	margin-right: 50px;
+	padding: 20px;}
 
 .full {
 	border: 1px solid gray;
@@ -85,5 +119,12 @@ mark {
 	background-color: #C5F8FF;
 	color: black;}
 
-
-
+.blurbox {
+	border: 1px solid;
+	padding: 10px;
+	box-shadow: 5px 10px 18px #888888;
+	height: 200px;
+	width: 900px;
+	margin-top:20px;
+	float: right;
+	}

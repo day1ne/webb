@@ -128,3 +128,13 @@ mark {
 	margin-top:20px;
 	float: right;
 	}
+
+.GeneratedMarquee {
+	font-family:'Comic Sans MS';
+	font-weight:bold;
+	line-height:20px;
+	color:#CC99CC;
+	margin-top:-30px;}
+
+
+

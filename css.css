@@ -64,6 +64,10 @@ body {
 .p2 {
 	margin-left: 1100px;}
 
+.p3 {
+	margin-left: 250px;}
+
+
 .pf1 {
 	font-size: 20px;
 	display: inline;
@@ -107,6 +111,13 @@ body {
 	margin-right: 50px;
 	padding: 20px;}
 
+.img3 {
+	height: 600px;
+	width: 1200px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;}
+
 .full {
 	border: 1px solid gray;
 	background-image: url('https://1.bp.blogspot.com/-gpPCNM2JjBs/W28oMHeNHqI/AAAAAAAX7u8/LQtL7fq0ZcsDrRicHfQJQMeFpwpLlVFMwCLcBGAs/s1600/AW1528222_00.gif');
@@ -136,5 +147,24 @@ mark {
 	color:#CC99CC;
 	margin-top:-30px;}
 
+.blurbox2 {
+	border: 1px solid;
+	padding: 25px;
+	padding-box: 10px;
+	box-shadow: 5px 10px 18px #888888;
+	height: 220px;
+	width: 200px;
+	margin-top: -5px;
+	float: left;}
+
+.blurbox3 {
+	border: 1px solid;
+	padding: 10px;
+	box-shadow: 5px 10px 18px #888888;
+	height: 200px;
+	width: 400px;
+	margin-top:20px;
+	float: right;
+	}
 
 
